@@ -1,0 +1,15 @@
+img{
+	display: block;
+    width: 500px;
+    height: 500px;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+p{
+    margin: 50px;
+    font-size: 20px;
+}
